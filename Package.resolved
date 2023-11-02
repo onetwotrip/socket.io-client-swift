@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Starscream",
-        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "repositoryURL": "https://github.com/onetwotrip/Starscream",
         "state": {
           "branch": null,
-          "revision": "ac6c0fc9da221873e01bd1a0d4818498a71eef33",
-          "version": "4.0.6"
+          "revision": "0d7293cc4196a20bce356f1561a8ed8e868d760b",
+          "version": null
         }
       }
     ]
